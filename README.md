@@ -15,7 +15,6 @@ The 'critical scripts' are:
 - mass.py (which relies on ozdes_mass_tools.py) for calculating BH masses from fit parameters.
   - H beta and H alpha constants come from this paper: https://arxiv.org/pdf/astro-ph/0508335.pdf
   - Mg II constants come from John's paper: https://arxiv.org/pdf/1410.1539.pdf
-  - The mass results are backed up on irulan under 
 
 Everything else is 'old scripts' or 'temp scripts' that I decided to toss in here as a back up.
 
