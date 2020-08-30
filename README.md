@@ -31,7 +31,7 @@ Stuff backed up on irulan:
 - The DES DR1 magnitudes as mag_dr1.txt.
 - The NOAO-queried magnitudes as mag_noao.txt.
 - The OzDES F star spectra as fstars.tar.gz.
-- A copy of this repository under the folder 'scripts'.
+- A copy of this repository as repository.tar.gz.
 - The emission line fit parameters and black hole masses as bh_mass_results.xlsx.
 
 
