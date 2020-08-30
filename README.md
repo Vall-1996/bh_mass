@@ -24,7 +24,7 @@ Everything else is 'old scripts' or 'temp scripts' that I decided to toss in her
 - spec-xxxx-xxxxx-xxxx.fits: some SDSS spectra I practiced fitting on, from this paper: https://arxiv.org/pdf/1509.03634.pdf
 - links.txt: just a backup of some links I had bookmarked as I had to refer back to them a lot.
 
-Stuff backed up on irulan:
+Stuff backed up on irulan (under /exports/scratch/valeried/ozdes_project and /homes/ouranos/valeried/ozdes_project:
 
 - The OzDES spectra as specs.tar.gz.
 - The DES DR1 query outputs as desdr_queries.tar.gz.
@@ -33,5 +33,3 @@ Stuff backed up on irulan:
 - The OzDES F star spectra as fstars.tar.gz.
 - A copy of this repository as repo.tar.gz.
 - The emission line fit parameters and black hole masses as bh_mass_results.xlsx.
-
-
