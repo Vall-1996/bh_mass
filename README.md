@@ -26,13 +26,12 @@ Everything else is 'old scripts' or 'temp scripts' that I decided to toss in her
 
 Stuff backed up on irulan:
 
-- The OzDES spectra as SpARCS_xxxx.fits and SVA1_COADD_xxxx.fits, under the folder 'spectra'.
-- The DES DR1 queries as DESDR_xxxx.tab, under the folder 'desdr1_queries'.
-- The NOAO queries are NOT backed up, as I deleted each image after scraping the header for magnitudes (space limitations).
-- The DES DR1 magnitudes as mag_dr1.txt, under the folder 'magnitudes'.
-- The NOAO-queried magnitudes as mag_noao.txt, under the folder 'magnitudes'.
-- The OzDES F star spectra as OzDES-DR2_xxxxx.fits and FStars.fits, under the folder 'f_stars'.
-- A copy of this repository, under the folder 'scripts'.
-- The emission line fit parameters and black hole masses as bh_mass_results.xlsx, under the folder 'fits_and_masses'.
+- The OzDES spectra as specs.tar.gz.
+- The DES DR1 query outputs as desdr_queries.tar.gz.
+- The DES DR1 magnitudes as mag_dr1.txt.
+- The NOAO-queried magnitudes as mag_noao.txt.
+- The OzDES F star spectra as fstars.tar.gz.
+- A copy of this repository under the folder 'scripts'.
+- The emission line fit parameters and black hole masses as bh_mass_results.xlsx.
 
 
