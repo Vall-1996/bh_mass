@@ -1,0 +1,13 @@
+Janie's paper:
+Janie's GitHub: https://github.com/jhoormann
+Janie's code for fetching photometry: https://github.com/jhoormann/OzDES_getPhoto
+Janie's cofe for calibrating spectra: https://github.com/jhoormann/OzDES_calibSpec
+
+DES EasyAccess account: https://des.ncsa.illinois.edu/easyweb/login/?next=%2Feasyweb%2F
+Data Release 1 info: https://www.darkenergysurvey.org/wp-content/uploads/2018/01/DR1Release.pdf
+Data Release 1 products: https://des.ncsa.illinois.edu/releases/dr1/dr1-products
+
+Sample spectra to fit: https://arxiv.org/pdf/1509.03634.pdf
+
+Mg II mass equations reference: https://arxiv.org/pdf/1410.1539.pdf
+H alpha / H beta mass equations reference: https://arxiv.org/pdf/astro-ph/0508335.pdf
