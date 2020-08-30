@@ -6,7 +6,7 @@ The 'critical scripts' are:
 - Janie's getPhoto.py (https://github.com/jhoormann/OzDES_getPhoto) for fetching magnitudes from photometry,
   OR querying the databases yourself for the magnitudes (which is what I ended up doing).
   - for DES DR1 queries, I used the DES easyaccess package (https://github.com/mgckind/easyaccess) and readQuery.py to read the output. 
-  - for NOAO queries, I used their online query interface (https://datalab.noao.edu/query.php) and pulled from the image headers. These magnitudes are backed up on irulan under mag_noao.txt.
+  - for NOAO queries, I used their online query interface (https://datalab.noao.edu/query.php) and pulled from the image headers. 
   
 - Janie's calibSpec.py (https://github.com/jhoormann/OzDES_calibSpec) for calibrating the spectra using the magnitudes from the photometry.
 
